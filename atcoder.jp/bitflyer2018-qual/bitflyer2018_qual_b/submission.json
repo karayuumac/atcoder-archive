@@ -1,0 +1,12 @@
+{
+	"id": 2602608,
+	"epoch_second": 1527947931,
+	"problem_id": "bitflyer2018_qual_b",
+	"contest_id": "bitflyer2018-qual",
+	"user_id": "karayuu",
+	"language": "Kotlin (1.0.0)",
+	"point": 200,
+	"length": 758,
+	"result": "AC",
+	"execution_time": 311
+}
