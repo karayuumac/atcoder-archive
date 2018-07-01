@@ -1,0 +1,12 @@
+{
+	"id": 2768230,
+	"epoch_second": 1530445544,
+	"problem_id": "abc102_a",
+	"contest_id": "abc102",
+	"user_id": "karayuu",
+	"language": "Kotlin (1.0.0)",
+	"point": 100,
+	"length": 180,
+	"result": "AC",
+	"execution_time": 200
+}
