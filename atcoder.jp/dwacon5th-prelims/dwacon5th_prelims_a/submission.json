@@ -1,0 +1,12 @@
+{
+	"id": 3655738,
+	"epoch_second": 1543059567,
+	"problem_id": "dwacon5th_prelims_a",
+	"contest_id": "dwacon5th-prelims",
+	"user_id": "karayuu",
+	"language": "Kotlin (1.0.0)",
+	"point": 200,
+	"length": 392,
+	"result": "AC",
+	"execution_time": 246
+}
