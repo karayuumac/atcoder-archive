@@ -1,0 +1,12 @@
+{
+	"id": 6979734,
+	"epoch_second": 1566128536,
+	"problem_id": "soundhound2018_summer_qual_b",
+	"contest_id": "soundhound2018-summer-qual",
+	"user_id": "karayuu",
+	"language": "C++14 (GCC 5.4.1)",
+	"point": 200,
+	"length": 1103,
+	"result": "AC",
+	"execution_time": 8
+}
