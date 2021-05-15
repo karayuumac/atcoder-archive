@@ -1,0 +1,12 @@
+{
+	"id": 22584285,
+	"epoch_second": 1621048212,
+	"problem_id": "practice_1",
+	"contest_id": "abs",
+	"user_id": "karayuu",
+	"language": "Rust (1.42.0)",
+	"point": 100,
+	"length": 145,
+	"result": "AC",
+	"execution_time": 8
+}
