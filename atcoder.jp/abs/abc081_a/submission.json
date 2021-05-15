@@ -1,0 +1,12 @@
+{
+	"id": 22584450,
+	"epoch_second": 1621048806,
+	"problem_id": "abc081_a",
+	"contest_id": "abs",
+	"user_id": "karayuu",
+	"language": "Rust (1.42.0)",
+	"point": 100,
+	"length": 131,
+	"result": "AC",
+	"execution_time": 8
+}
